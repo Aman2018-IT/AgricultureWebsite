@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+.DSR{
+  padding: 40px;
+  /* background-color:black; */
+background-color:transparent;
+
+   /* opacity:3.3; */
+}
+
+#parent h1{
+  height: 47px;
+  white-space: nowrap;
+  overflow: hidden; 
+  font-family: 'Source Code Pro', monospace;  
+  font-size: 38px;
+  /* color: rgba(255,255,255,.70); */
+  color:white;
+  position: relative;
+  margin-left: 440px;
+  font-weight: bold;
+  font-family: 'Noto Serif', serif;
+}
+/* #parent h1{
+  color:white;
+} */
+
+#border {
+  border-bottom: solid 3px rgba(0,255,0,.75);
+  position: absolute;
+  right: -7px;
+  width: 20px;
+}
+
+/* Animation */
+#parent {
+  animation: animated-text 2s steps(30,end) 1s 1 normal both
+}
+
+#border {
+   animation: animated-cursor 600ms steps(30,end) infinite;
+}
+
+/* text animation */
+
+@keyframes animated-text{
+  from{width: 0;}
+  to{width: 2000px;}
+}
+
+/* cursor animations */
+
+@keyframes animated-cursor{
+  from{border-bottom-color: rgba(0,255,0,.75);}
+  to{border-bottom-color: transparent;}
+}
+
+.manupliate{
+  margin-left:390px;
+  margin-right: 40px;
+  text-align: right;
+ 
+ }
+
+.ham{
+  color:white;
+  text-align: center;
+}
+h1{
+  font-size:2.5rem;
+}
+
+p{
+  color:white;
+  font-size: 1.3rem;
+  text-align: center;
+  /* border: 2px solid white; */
+  padding:0px;
+}
+.changes{
+  text-align: center;
+  color:white;
+  font-size: 1.3rem;
+  /* border: 2px solid white; */
+  padding:23px;
+  margin:20px;
+}
+.changes h3{
+  font-size:2rem;
+}
+
+
+
+

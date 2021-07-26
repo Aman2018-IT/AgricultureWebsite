@@ -1,0 +1,116 @@
+body {
+	padding: 10px;
+	margin: 1%;
+}
+
+header {
+	background-color: transparent;
+	background-image: url("../images/flywheel.jpg");
+	background-size:100%;
+	padding:20px;
+}
+
+h1 {
+	text-align: center;
+	color: #0a0a0a;
+	font-size: 50px;
+	text-transform: uppercase;
+}
+
+nav a{
+	display: inline-block;
+	margin: 2%;
+		
+	-webkit-border-radius: 3;
+	-moz-border-radius: 3;
+	-o-border-radius: 3;
+	border-radius: 15px;
+
+	text-decoration: none;
+	padding: 2%;
+
+	color: #000000;
+	text-align: center;
+	vertical-align: middle;
+	background-color: rgba(0,0,0,.3);
+	width:200px;
+	height: 20px;
+	
+}
+nav a:hover {background-color: #f5f5f5}
+
+.active {
+	background-color: #FFFFFF;
+}
+
+.left {
+	background-color: #848E66;
+	width: 24%;
+	float:left;
+	padding: 5% 0;
+}
+
+.right {
+	width:74%;
+	display: inline-block;
+	padding-left: 2%;
+}
+
+.left img {
+	border: solid 1px #000000;
+	width: 80%;
+	margin: 10%;
+}
+
+body  {
+	font-size: 20px;
+	font-family: sans-serif;
+	background-image: url("https://images.pexels.com/photos/5980/food-sunset-love-field.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)");
+	height: 100%;
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-attachment: fixed;
+	image-rendering: pixelated;
+}
+
+.box {
+    position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  
+	
+  }
+  .content{
+	  position:absolute;
+	  top:55%;
+	 
+  }
+  
+  .box select {
+	background:transparent;
+	
+	padding: 12px;
+	width: 270px;
+	border: none;
+	font-size: 20px;
+	box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+
+	
+
+  }
+  
+ 
+
+  .box select option {
+	padding: 30px;
+	background: rgba(0, 0, 0, 0.5);
+	overflow-y: scroll;
+	
+  }
+  .center{display:block;
+margin-left:auto;
+margin-right:auto;
+width: 50%}
+

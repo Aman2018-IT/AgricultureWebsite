@@ -1,0 +1,156 @@
+
+html,body {
+  height: 100%;
+}
+
+html{
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-attachment: fixed;
+}
+
+/*Background images for fruit*/
+.apple-bg{background-image: url("https://wallpaperaccess.com/full/1259314.jpg");}  
+.banana-bg{background-image: url("https://p4.wallpaperbetter.com/wallpaper/151/858/439/bananas-fruit-ripe-grass-wallpaper-preview.jpg");}
+.cherry-bg{background-image: url("https://wallpaperaccess.com/full/1704481.jpg");}
+.coconut-bg{background-image: url("http://wallpapers.net/web/wallpapers/coconut-hd-wallpaper-for-desktop-mobiles/thumbnail/lg.jpg") ;}
+.date-bg{background-image: url("https://img.wallpapic.com/i7024-415-19/medium/fruits-date-palm-food-tree-wallpaper.jpg");}
+.grapes-bg{background-image: url("https://i.pinimg.com/originals/34/5a/2f/345a2fb73328f55c43f670991bc8215b.jpg");}
+.guava-bg{background-image: url("https://c4.wallpaperflare.com/wallpaper/146/844/29/food-guava-wallpaper-preview.jpg");}
+.jack-bg{background-image: url("https://c1.wallpaperflare.com/preview/468/135/666/fruit-tree-green-leaf-jack-delicious.jpg");}
+.kiwi-bg{background-image: url("https://c4.wallpaperflare.com/wallpaper/96/26/395/fruits-kiwi-fruit-wallpaper-preview.jpg");}
+.litchi-bg{background-image: url("https://wallpapercave.com/wp/wp3746219.jpg");}
+.mango-bg{background-image: url("https://wallpapercave.com/wp/wp2726067.jpg");}
+.mosambhi-bg{background-image: url("http://specialtyproduce.com/sppics/11502.png");}
+.orange-bg{background-image: url("https://wallpaperaccess.com/full/2446202.jpg");}
+.papaya-bg{background-image: url("https://wallpaperaccess.com/full/3492293.jpg");}
+.peach-bg{background-image: url("https://wallpapercave.com/wp/wp4206186.jpg");}
+.pineapple-bg{background-image: url("https://images.unsplash.com/photo-1550828520-4cb496926fc9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&w=1000&q=80") ;}
+.plum-bg{background-image: url("https://www.itl.cat/pngfile/big/205-2059970_summer-fruit-wallpaper-1920x1080-fruit-wallpaper-for-laptop.jpg");}
+.pomegranate-bg{background-image: url("https://wallpapercave.com/wp/wp2328091.jpg");}
+.strawberry-bg{background-image: url("https://wallpapercave.com/wp/wp3951530.jpg");}
+.watermelon-bg{background-image: url("https://cdn.hipwallpaper.com/i/98/70/EQUAFg.jpg");}
+
+/*Background images for vegetables*/
+.beetroot-bg{background-image: url("https://c0.wallpaperflare.com/preview/973/372/965/market-vegetables-beets-healthy.jpg");}
+.bitter_gourd-bg{background-image: url("https://cdn.pixabay.com/photo/2019/07/17/21/56/bitter-gourd-4345074_1280.jpg");}
+.brinjal-bg {background-image: url("https://cdn.pixabay.com/photo/2020/09/23/10/07/eggplant-5595572_1280.jpg");}
+.broccolli-bg {background-image: url("https://cdn.pixabay.com/photo/2014/10/22/18/34/broccoli-498600_1280.jpg");}
+.Cabbage-bg {background-image: url("https://cdn.pixabay.com/photo/2017/11/06/17/05/vegetable-2924245_1280.jpg");}
+.Capsicum-bg {background-image: url("https://cdn.pixabay.com/photo/2019/11/14/16/15/paprika-4626536_1280.jpg");}
+.Carrot-bg {background-image: url("https://cdn.pixabay.com/photo/2015/03/14/14/00/carrots-673184_1280.jpg");}
+.Cucumber-bg {background-image: url("https://cdn.pixabay.com/photo/2016/08/12/15/33/cucumbers-1588945_1280.jpg");}
+.Garlic-bg {background-image: url("https://cdn.pixabay.com/photo/2013/06/16/13/53/garlic-139659_1280.jpg");}
+.Ginger-bg {background-image: url("https://cdn.pixabay.com/photo/2016/10/13/15/50/ginger-1738098_1280.jpg");}
+.Lady_Finger-bg {background-image: url("https://cdn.pixabay.com/photo/2020/06/21/05/22/vegetable-5323270_1280.jpg");}
+.onion-bg {background-image: url("https://cdn.pixabay.com/photo/2016/08/03/01/13/onion-1565604_1280.jpg");}
+.potato-bg {background-image: url("https://cdn.pixabay.com/photo/2016/08/11/08/49/potatoes-1585075_1280.jpg");}
+.pumpkin-bg {background-image: url("https://cdn.pixabay.com/photo/2019/09/05/18/20/pumpkin-4454745_1280.jpg");}
+.radish-bg {background-image: url("https://cdn.pixabay.com/photo/2018/02/13/19/01/radish-3151347_1280.jpg");}
+.spinach-bg {background-image: url("https://cdn.pixabay.com/photo/2016/09/12/14/06/spinach-1664620_1280.jpg");}
+.Turmeric-bg {background-image: url("https://cdn.pixabay.com/photo/2017/04/20/13/49/wurz-2245783_1280.jpg");}
+.turnip-bg {background-image: url("https://cdn.pixabay.com/photo/2018/06/22/13/44/beetroot-3490786_1280.jpg");}
+.mushroom-bg {background-image: url("https://cdn.pixabay.com/photo/2019/08/27/19/08/mushrooms-4434962_1280.jpg");}
+.brinjal-bg{background-image: url("https://images.all-free-download.com/images/graphiclarge/eggplant_553031.jpg");}
+
+/*Background images for flower*/
+.adenium-bg{background-image: url("https://img4.goodfon.com/wallpaper/nbig/4/b7/tsvety-adenium-pustynnaia-roza-tsvetenie-1.jpg"); }
+.allamanda-bg{background-image: url("https://c4.wallpaperflare.com/wallpaper/740/319/611/beige-black-and-yellow-bird-on-green-grass-during-daytime-hoopoe-hoopoe-wallpaper-preview.jpg");}
+.bougainvillea-bg{background-image: url("https://images7.alphacoders.com/687/687625.jpg");}
+.clitoria-bg{background-image: url("https://thumbs.dreamstime.com/b/clitoria-ternatea-aparajita-flower-indian-subcontinent-31881367.jpg");}
+.crapejasmine-bg{background-image: url("https://c1.wallpaperflare.com/preview/482/1009/260/crape-jasmine-moonbeam-carnation-of-india-chandni.jpg");}
+.hibiscus-bg{background-image: url("https://www.10wallpaper.com/wallpaper/1366x768/1601/Gorgeous_hibiscus-Flower_photo_HD_Wallpaper_1366x768.jpg");}
+.ixora-bg{background-image: url("https://a-static.besthdwallpaper.com/ixora-wallpaper-3200x2400-56192_29.jpg");}
+.kalanchoe-bg{background-image: url("https://images6.alphacoders.com/679/thumb-1920-679093.jpg");}
+.lantana-bg{background-image: url("https://www.gardeningknowhow.com/wp-content/uploads/2020/11/pink-and-yellow-lantana-flowers.jpg");}
+.milli-bg{background-image: url("https://www.gardeningknowhow.com/wp-content/uploads/2013/01/crown-of-thorns.jpg");}
+.phlox-bg{background-image: url("https://free4kwallpapers.com/uploads/originals/2015/12/07/phlox--lomatium-wallpaper.jpg");}
+.rose-bg{background-image: url("https://wonderfulengineering.com/wp-content/uploads/2016/02/Rose-Wallpaper-10.jpg");}
+.snapdragon-bg{background-image: url("https://wallpapercave.com/wp/wp3818972.jpg");}
+.tiobouchina-bg{background-image: url("https://i.pinimg.com/originals/0f/5f/ca/0f5fca14f82886004c87a817086356e3.jpg");}
+
+/*Background images for pulses*/
+.greengram-bg{background-image: url("https://c1.wallpaperflare.com/preview/706/961/125/mung-beans-vigna-radiata-moong-bean-green-gram.jpg");}
+.blackeye-bg{background-image: url("https://media.istockphoto.com/photos/organic-blackeyed-peas-picture-id932321824?k=6&m=932321824&s=612x612&w=0&h=C40u868J3JzhcHUtm9ue26icBx4RLLJ6MeYs5yozXIE=");}
+.redlentiles-bg{background-image: url("https://c0.wallpaperflare.com/preview/973/503/754/lentil-red-lentils-cooking-kitchen.jpg");}
+.redkidney-bg{background-image: url("https://ak.picdn.net/shutterstock/videos/5371451/thumb/1.jpg");}
+.yellowpigeon-bg{background-image: url("https://t4.ftcdn.net/jpg/04/16/12/09/360_F_416120973_YuEaTJMuRAnsKBCBBBwYOb96tX2WyhqM.jpg");}
+.whiteandgreenpeas-bg{background-image: url("https://media.istockphoto.com/photos/green-peas-with-pods-and-leaves-picture-id1002215828?k=6&m=1002215828&s=612x612&w=0&h=7YfKutCV3RB9ADULJexfeIqwX1ljCh_pNYKI6KjGteA=");}
+.rice-bg{background-image: url("https://wallpaperaccess.com/full/1463517.jpg");}
+.bgbeans-bg{background-image: url("https://i.pinimg.com/originals/3d/ac/e2/3dace242ba8414cc530177a524bf89ea.jpg");}
+.sbgram-bg{background-image:url("https://i.ndtvimg.com/mt/cooks/2014-11/bengal-gram-split.jpg");}
+
+.Weather{
+  background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 15px;
+  padding: 30px;
+  margin:20px;
+}
+
+.Cultivation{
+  background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 15px;
+  padding: 30px;
+  margin:20px;
+}
+
+.Soil{
+  background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 15px;
+  padding: 30px;
+  margin:20px;
+}
+
+.Place{
+  background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 15px;
+  padding: 30px;
+  margin:20px;
+}
+
+.Pesticides{
+  background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 15px;
+  padding: 30px;
+  margin:20px;
+}
+
+.Water{
+  background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 15px;
+  padding: 30px;
+  margin:20px;
+}
+
+.Varieties{
+  background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 15px;
+  padding: 30px;
+  margin:20px;
+}
+
+.Weather:hover {background-color: rgba(0, 0, 0, 0.7);}
+.Cultivation:hover {background-color: rgba(0, 0, 0, 0.7);}
+.Soil:hover {background-color: rgba(0, 0, 0, 0.7);}
+.Place:hover {background-color: rgba(0, 0, 0, 0.7);}
+.Pesticides:hover {background-color: rgba(0, 0, 0, 0.7);}
+.Water:hover {background-color: rgba(0, 0, 0, 0.7);}
+.Varieties:hover {background-color: rgba(0, 0, 0, 0.7);}
+

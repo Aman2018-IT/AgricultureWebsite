@@ -1,0 +1,161 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+   
+   /* background-color:lightgray; */
+    /* color: white; */
+    font-family: 'Noto Serif', serif;
+    background:url("https://assets.thehansindia.com/h-upload/2021/01/28/1027566-farmer.webp") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+/*.container::before{
+    content:"";
+    background:url("https://assets.thehansindia.com/h-upload/2021/01/28/1027566-farmer.webp") no-repeat center center fixed;    
+    position: absolute;
+    width: 100%;
+    height: 500%;
+
+    opacity: 0.8;
+    z-index: -1;
+
+    top:0px;
+    left:0px;   
+}
+*/
+
+h1{
+    font-size: 60px;
+    margin:20px;
+    text-align: center;
+}
+
+.schemes1{
+  background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 25px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+.schemes2{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 25px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+.schemes3{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 25px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+
+}
+.schemes4{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 25px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+.schemes5{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 25px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+.schemes6{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 25px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+.schemes7{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 15px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+.schemes8{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 15px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+.schemes9{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 25px;
+  /* margin-bottom: 25px; */
+
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+.schemes10{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 25px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+.schemes11{
+    background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  border-radius: 25px;
+  /* margin-bottom: 25px; */
+  text-align: left;
+  padding: 40px;
+  margin: 20px
+}
+
+.schemes1:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes2:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes3:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes4:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes5:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes6:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes7:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes8:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes9:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes10:hover {background-color: rgba(0, 0, 0, 0.8);}
+.schemes11:hover {background-color: rgba(0, 0, 0, 0.8);}
