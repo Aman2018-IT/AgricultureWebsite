@@ -32,3 +32,11 @@ Installation: This project requires installation of Xampp to test run the webpag
 Text Editor(Sublime/Visual Studio code): In order to read the code in a proper format,open any one of the text editors that has been installed and open the 'Code' Folder on your text editor.
 
 Run: In order to run the website open a new tab and write 'http://localhost/code/' to start the website(You will be redirected to the login page of the website).
+![Screenshot (555)](https://user-images.githubusercontent.com/73181802/126977249-1c521b60-2e8e-4760-8d0c-f8c5dee077f8.png)
+![Screenshot (556)](https://user-images.githubusercontent.com/73181802/126977266-1879bf70-64be-4cd5-9d4b-d4400d4333b6.png)
+![Screenshot (557)](https://user-images.githubusercontent.com/73181802/126977286-b850af33-bf4a-4e8e-ad52-50a526ca85b8.png)
+![Screenshot (551)](https://user-images.githubusercontent.com/73181802/126977299-d3de65d2-e477-4060-baa8-b240d228e648.png)
+![Screenshot (552)](https://user-images.githubusercontent.com/73181802/126977307-51410148-8aac-4da1-897a-215c57c479c1.png)
+![Screenshot (553)](https://user-images.githubusercontent.com/73181802/126977329-739390b1-559e-4f14-a9e5-9e0ee8aa7d94.png)
+![Screenshot (554)](https://user-images.githubusercontent.com/73181802/126977342-51368de0-f9e5-4673-a2a9-cdaeba5b6c2d.png)
+
